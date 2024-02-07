@@ -27,6 +27,9 @@ I'm a passionate full-stack developer with expertise in a variety of technologie
  
  -Project 2 (https://github.com/SudiptaMajumder27/Airbnb-Clone) :Made a clone using HTML , CSS , JAVASCRIPT , NODE.JS , REACT.JS , MONGODB , BOOTSTRAP. 
 
+
+ -Project 3(https://github.com/SudiptaMajumder27/Weather-App/tree/my-new-branch) : Made a clone using HTML , CSS , JAVASCRIPT , NODE.JS , REACT.JS , MONGODB , BOOTSTRAP. 
+
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/sudipta-majumder-b5697626b/

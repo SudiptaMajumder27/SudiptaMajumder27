@@ -30,8 +30,8 @@ I'm a passionate full-stack developer with expertise in a variety of technologie
 
  -Project 3(https://github.com/SudiptaMajumder27/Weather-App/tree/my-new-branch) : Made a clone using HTML , CSS , JAVASCRIPT , NODE.JS , REACT.JS , MONGODB , BOOTSTRAP. 
 
- --Project 4( https://github.com/SudiptaMajumder27/Spotify-clone): Made a clone using HTML and 
- CSS.
+ --Project 4(https://github.com/SudiptaMajumder27/Fontend_Development.play) Made a web page using HTML and  CSS.
+
 
 ## 📫 Let's Connect
 

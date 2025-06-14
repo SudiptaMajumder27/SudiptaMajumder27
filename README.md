@@ -22,12 +22,15 @@ I'm a passionate full-stack developer with expertise in a variety of technologie
 ## 🚀 Main Projects
 
  --Project 1(https://github.com/SudiptaMajumder27/CODSOFT_JOB_BOARD) JOB BOARD Website. Made using MongoDB, React.js, Node.js,Express.js .
+ 
 
- -Project 2 (https://github.com/SudiptaMajumder27/Arogya-_Marg-Kiosk/tree/my-new-branch): Made using MongoDB, React.js, Node.js,Express.js. 
+ --Project 2 (https://github.com/SudiptaMajumder27/Airbnb-website-clone/tree/my-new-branch) :Made a clone using HTML , CSS , JAVASCRIPT , NODE.JS ,Express.js,  REACT.JS ,       MONGODB ,  BOOTSTRAP. 
+ 
+
+ -Project 3 (https://github.com/SudiptaMajumder27/Arogya-_Marg-Kiosk/tree/my-new-branch): Made using MongoDB, React.js, Node.js,Express.js. 
   CSS.
  
- -Project 3 (https://github.com/SudiptaMajumder27/Airbnb-website-clone/tree/my-new-branch) :Made a clone using HTML , CSS , JAVASCRIPT , NODE.JS ,Express.js,  REACT.JS , MONGODB , 
-  BOOTSTRAP. 
+ 
 
 
 ## 📫 Let's Connect

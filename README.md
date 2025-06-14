@@ -26,7 +26,7 @@ I'm a passionate full-stack developer with expertise in a variety of technologie
  -Project 2 (https://github.com/SudiptaMajumder27/Arogya-_Marg-Kiosk/tree/my-new-branch): Made using MongoDB, React.js, Node.js,Express.js. 
   CSS.
  
- -Project 3 (https://github.com/SudiptaMajumder27/Airbnb-website-clone/tree/my-new-branch) :Made a clone using HTML , CSS , JAVASCRIPT , NODE.JS , REACT.JS , MONGODB , 
+ -Project 3 (https://github.com/SudiptaMajumder27/Airbnb-website-clone/tree/my-new-branch) :Made a clone using HTML , CSS , JAVASCRIPT , NODE.JS ,Express.js,  REACT.JS , MONGODB , 
   BOOTSTRAP. 
 
 
